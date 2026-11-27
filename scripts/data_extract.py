@@ -1,3 +1,4 @@
+print("hello world")
 """
 E + L ของ ELT: อ่านไฟล์ CSV ของ Northwind จาก 2 ระบบ แล้วโหลดเข้า DuckDB โดยไม่แก้ไขเนื้อหา
 
